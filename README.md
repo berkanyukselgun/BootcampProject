@@ -11,8 +11,6 @@ Activiteam (F27)
 - Ayşe Kayabay: Product Owner, Developer
 - Berkan Yükselgün: Scrum Master, Developer, Designer
 - Eda Yalçın: Developer
-- İbrahim Ethem Arı: Aktif Olmayan Üye
-- Görkem Eren Akçamur : Aktif Olmayan Üye
 
 ## Ürün İsmi
 ActivitIST App
