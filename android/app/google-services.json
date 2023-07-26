@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "625066155944",
+    "project_id": "activitist-app",
+    "storage_bucket": "activitist-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625066155944:android:c0ca77e9c0625f4c82c79d",
+        "android_client_info": {
+          "package_name": "com.example.akademi_bootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625066155944-5a93m59b4igrdc6t998ib0kih5jflntc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.akademi_bootcamp",
+            "certificate_hash": "3d53546cd5be75bb4320b038a47bb950a5d011ed"
+          }
+        },
+        {
+          "client_id": "625066155944-bk4alksaou7jhu0bnp60n492dis8qqmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaechPZVlFKBe2mmhrFB8K_cCY1HgRRBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625066155944-bk4alksaou7jhu0bnp60n492dis8qqmh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "625066155944-amlsrijerlnnk1vaiffor5qo4gq73g82.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.akademiBootcamp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

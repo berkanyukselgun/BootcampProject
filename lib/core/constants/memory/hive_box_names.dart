@@ -1,0 +1,1 @@
+enum HiveBoxNames { EVENTS, CATEGORIES, GROUPS, FAVOURITES }
